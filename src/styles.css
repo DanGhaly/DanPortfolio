@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Use border-box for proper width/height calculations */
+}
+
+body {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "Source Code Pro", serif;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+    width: 100%; /* Ensure the body takes up full width */
+}
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+    width: 100%; /* Ensure it takes full width */
+}
